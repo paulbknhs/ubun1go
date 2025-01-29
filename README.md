@@ -18,10 +18,12 @@ Automated setup script for Ubuntu servers with developer tools, security hardeni
 
 ## Installation ⚡
 
+```bash
 git clone https://github.com/yourusername/ubuntu-server-setup.git
 cd ubuntu-server-setup
 chmod +x setup.sh
 sudo ./setup.sh
+```
 
 ## Usage 🖥️
 
