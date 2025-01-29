@@ -1,10 +1,3 @@
-Here's a GitHub repository README and description:
-
----
-
-**README.md**
-
-````markdown
 # Ubuntu Server Setup Script
 
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
@@ -25,18 +18,15 @@ Automated setup script for Ubuntu servers with developer tools, security hardeni
 
 ## Installation ⚡
 
-```bash
 git clone https://github.com/yourusername/ubuntu-server-setup.git
 cd ubuntu-server-setup
 chmod +x setup.sh
 sudo ./setup.sh
-```
-````
 
 ## Usage 🖥️
 
 1. Select components via interactive menu:
-   ![Installation Menu](screenshots/menu.png) _(include actual screenshot later)_
+   ![Installation Menu](screenshots/menu.png)
 
 2. Automatic installation of:
 
@@ -93,7 +83,3 @@ sudo ./setup.sh
 ## License 📄
 
 MIT License - See [LICENSE](LICENSE)
-
-```
-
-```
